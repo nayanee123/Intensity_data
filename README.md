@@ -26,7 +26,7 @@ proactively optimize their processes, and improve overall customer satisfaction.
 |-|-|-|
 |01| Problem Statement |(https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated%20Project%20guide%20data%20set/Guide%20-%20Data%20Science%202.0%20Capstone%20Project.docx)
 |02| Data Sources |(https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated%20Project%20guide%20data%20set/Intensity_data.zip)
-|03| Model Traning & Preprocessing (http://localhost:8888/notebooks/Intensity.ipynb)
+|03| Model Traning & Preprocessing |(http://localhost:8888/notebooks/Intensity.ipynb)
 |04| Evaluation |(http://localhost:8888/notebooks/Intensity.ipynb)
 |05|Integretion |(http://localhost:8888/notebooks/Intensity.ipynb)
 |06| Model Refinement |(http://localhost:8888/notebooks/Intensity.ipynb)
